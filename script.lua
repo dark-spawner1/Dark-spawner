@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://vpaste.net/1QLge"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dark-spawner1/Dark-spawner./refs/heads/main/376051e2675e784d69faeed313e53404.txt"))()
